@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --font-inter: 'Inter', sans-serif;
+    --font-playfair: 'Playfair Display', serif;
+    --font-jetbrains: 'JetBrains Mono', monospace;
+}
+
+@layer base {
+    body {
+        @apply bg-corporate-slate text-corporate-text antialiased;
+    }
+}

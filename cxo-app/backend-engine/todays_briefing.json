@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Latest from TechCrunch",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/",
+    "vertical": "AI & GenAI",
+    "summary_bullets": [
+      "Here are five concise, high-impact bullet points summarizing the provided article for a C-suite executive:",
+      "VC Investment Shift:** \"Hold forever\" investors are targeting \"zombie\" venture capital firms, indicating a potential market consolidation and opportunity for strategic acquisitions or partnerships.",
+      "AI Device Competition:** OpenAI's upcoming AI device, positioned as a less intrusive alternative to existing technology like the iPhone, will intensify competition and require proactive strategies.",
+      "AI Trademark Risks:** OpenAI's trademark issue highlights the growing importance of rigorous IP due diligence in the rapidly evolving AI landscape to avoid costly legal battles and brand damage.",
+      "Cybersecurity Threat:** The breach of a financial tech firm and subsequent data theft from US banks emphasizes the escalating cybersecurity risks and necessity for enhanced security measures and potential M&A activity in cybersecurity firms."
+    ],
+    "published_at": "2025-11-30T02:52:25.981920"
+  },
+  {
+    "title": "Latest from HBR",
+    "source": "HBR",
+    "source_url": "https://hbr.org/",
+    "vertical": "Leadership",
+    "summary_bullets": [
+      "Here are 5 concise, high-impact bullet points summarizing the HBR article text, tailored for a C-suite executive:",
+      "Strategic Insights:** HBR Executive Agenda provides curated content for steering the business in the current climate.",
+      "Morale Enhancement:** Access exercises designed to boost team morale, a key driver of productivity and retention.",
+      "Competitive Advantage:** HBR's popular management advice offers a potential edge in optimizing operations.",
+      "Executive Focus:** Content is specifically designed for executive subscribers seeking quick, practical solutions."
+    ],
+    "published_at": "2025-11-30T02:52:29.237988"
+  }
+]
